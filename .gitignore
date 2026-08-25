@@ -5,6 +5,11 @@ backend/__pycache__/
 backend/*/__pycache__/
 backend/*/*/__pycache__/
 *.pyc
+.venv/
+eval/__pycache__/
+eval/*/__pycache__/
+results/
+GenAI/
 
 # Environment & IDE
 .env

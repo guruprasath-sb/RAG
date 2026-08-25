@@ -1,0 +1,3 @@
+GENERATION_BACKEND = "local"
+LATENCY_BUDGET_MS = 200.0
+GENERATION_MODEL = "extractive-harness"
